@@ -24,3 +24,10 @@ axios
   .catch(function (error) {
     console.log("ERROR:", error);
   });
+
+
+// funciton clickFilter(event) {
+
+// }
+
+// tab.addEventListener('click', clickFilter)
